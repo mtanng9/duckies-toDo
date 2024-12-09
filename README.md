@@ -2,6 +2,11 @@
 
 **Duckies To-Do** is a single-page web application I created to make managing tasks simple and visually appealing. The app’s cheerful yellow and black theme keeps things bright and easy to navigate, and it’s designed to give users a clear snapshot of their tasks for today, upcoming deadlines, overdue items, and completed tasks—all on one page.
 
+
+![Screenshot 2024-12-08 at 11 21 56 PM](https://github.com/user-attachments/assets/f32cc74f-450b-4734-92a6-5ec90000200d)
+
+
+
 ## Features
 
 - **Task Management**: Add, edit, delete, and complete tasks effortlessly.
